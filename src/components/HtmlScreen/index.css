@@ -1,0 +1,7 @@
+.html-screen {
+  min-height: 100vh;
+  height: 100%;
+  flex: 0 0 50%;
+  padding: 20px;
+  background-color: #F2F4F7;
+}

@@ -1,0 +1,18 @@
+.content-screen {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  height: 100%;
+  flex: 0 0 25%;
+  padding: 5px;
+  background-color: #fff;
+}
+
+.content-screen textarea {
+  flex: 1;
+  height: 50%;
+  margin-bottom: 20px;
+	padding: 20px;
+  background-color: '#ECFEFF';
+  resize: none;
+}
